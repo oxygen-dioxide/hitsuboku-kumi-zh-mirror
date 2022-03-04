@@ -12,7 +12,7 @@ According to Hitsuboku Kumi's [Terms of Use](license.md), redistribution of voic
 
 ## Download
 - [Download from github](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-mirror/archive/refs/heads/main.zip)
-- [Download from gitlab](https://gitlab.com/oxygen-dioxide/hitsuboku-kumi-chn-mirror/-/archive/main/milk-jpn-main.zip)
+- [Download from gitlab](https://gitlab.com/oxygen-dioxide/hitsuboku-kumi-chn-mirror/-/archive/main/hitsuboku-kumi-chn-mirror-main.zip)
 - [Download from bitbucket](https://bitbucket.org/oxygendioxide/hitsuboku-kumi-chn-mirror/get/main.zip)
 
 ## Tech Specs
