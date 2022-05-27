@@ -1,0 +1,7 @@
+﻿name: 筆墨クミ ~ Chinese
+author: Cubialpha
+voice: Cubialpha
+text_file_encoding: shift_jis
+web: https://cubialpha.wixsite.com/koomstar
+portrait_opacity: 0.67000001668930054
+default_phonemizer: OpenUtau.Plugin.Builtin.ChineseCVVCPhonemizer
