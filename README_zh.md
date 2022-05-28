@@ -4,7 +4,8 @@
 
 [Github](https://github.com/oxygen-dioxide/hitsuboku-kumi-jpn-act4) | 
 [Gitlab](https://gitlab.com/oxygen-dioxide/hitsuboku-kumi-jpn-act4) | 
-[Bitbucket](https://bitbucket.org/oxygendioxide/hitsuboku-kumi-jpn-act4)
+[Bitbucket](https://bitbucket.org/oxygendioxide/hitsuboku-kumi-jpn-act4) | 
+[Jihulab](https://jihulab.com/oxygen-dioxide/hitsuboku-kumi-chn-mirror)
 
 Hitsuboku Kumi（筆墨クミ）是Xepheris制作的UTAU虚拟歌手。本仓库是Hitsuboku Kumi中文CVVC音源的镜像站。音频和oto均没有修改。
 
