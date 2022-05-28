@@ -4,7 +4,8 @@
 
 [Github](https://github.com/oxygen-dioxide/hitsuboku-kumi-chn-mirror) | 
 [Gitlab](https://gitlab.com/oxygen-dioxide/hitsuboku-kumi-chn-mirror) | 
-[Bitbucket](https://bitbucket.org/oxygendioxide/hitsuboku-kumi-chn-mirror)
+[Bitbucket](https://bitbucket.org/oxygendioxide/hitsuboku-kumi-chn-mirror) | 
+[Jihulab](https://jihulab.com/oxygen-dioxide/hitsuboku-kumi-chn-mirror)
 
 Hitsuboku Kumi (筆墨クミ) is a UTAU virtual singer voiced and developed by Cubialpha. This repo is a mirror site of Hitsuboku Kumi's Chinese CVVC voicebank. No changes are made on wav files and oto.ini files.
 
